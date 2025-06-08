@@ -1,0 +1,2 @@
+model,parameters,test_accuracy,test_precision,test_recall,test_auc,training_epochs,final_val_accuracy,best_val_accuracy
+Combined Techniques,"{'name': 'Combined Techniques', 'use_batchnorm': True, 'dropout_rate': 0.3, 'use_inception': True, 'use_residual': True, 'use_augmentation': True, 'batch_size': 32, 'epochs': 20}",0.5083333253860474,0.0,0.0,0.9510030746459961,7,0.503333330154419,0.503333330154419
